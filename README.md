@@ -18,14 +18,14 @@ Key Fields: InvoiceNo, StockCode, Description, Quantity, InvoiceDate, UnitPrice,
 --> Converted text-based dates to proper DATETIME format
 --> Managed NULL values and data quality issues
 
-2. Revenue Performance Analysis
+3. Revenue Performance Analysis
 ✅ Total revenue calculation
 ✅ Year-over-Year (YoY) revenue growth
 ✅ Month-over-Month (MoM) revenue trends
 ✅ Revenue distribution by country/region
 ✅ Geographic concentration analysis
 
-3. Product Performance Analysis
+4. Product Performance Analysis
 ✅ Top-selling products (by quantity and revenue)
 ✅ Underperforming products identification
 ✅ Product performance by country
@@ -33,7 +33,7 @@ Key Fields: InvoiceNo, StockCode, Description, Quantity, InvoiceDate, UnitPrice,
 ✅ Product return rate analysis
 ✅ Revenue contribution percentage by product
 
-4. Customer Behavior Analysis
+5. Customer Behavior Analysis
 ✅ Customer distribution by region
 ✅ Average revenue per customer
 ✅ Purchase frequency analysis
