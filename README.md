@@ -94,6 +94,7 @@ Through this project, I demonstrated:
 5. Strategic thinking for business recommendations
 
 
+
 📞 Connect With Me
 * LinkedIn: https://www.linkedin.com/in/navaneethan18/
 * Email: navaneethan1810@gmail.com
