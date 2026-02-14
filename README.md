@@ -1,5 +1,5 @@
 📊 Online Retail Sales Analysis - SQL Portfolio Project
-A comprehensive SQL-based analysis of online retail transactions, uncovering revenue trends, product performance patterns, and customer behavior insights using advanced MySQL queries and window functions.
+* A comprehensive SQL-based analysis of online retail transactions, uncovering revenue trends, product performance patterns, and customer behavior insights using advanced MySQL queries and window functions.
 
 🎯 Project Overview : 
 This project analyzes transactional data from an online retail store spanning December 2010 to January 2011, covering 1,054 customers across 38 countries with total revenue of £1.09 million. The analysis reveals critical business insights about geographic concentration, product performance disparities, and revenue trends.
