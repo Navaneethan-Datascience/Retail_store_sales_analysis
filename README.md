@@ -52,21 +52,22 @@ Partitioning: PARTITION BY for grouped window operations
 Data Quality: Handling NULL values, negative quantities, and edge cases
 
 📈 Key Findings
-Revenue Insights
-🇬🇧 90.15% of revenue comes from the United Kingdom
-📉 68% MoM decline from December 2010 to January 2011
-🌍 37 countries represent untapped growth opportunities
 
-Product Insights
-🏆 Top 0.53% of products drive majority of sales
-📦 25.63% of products are slow-movers
-💰 Product 22423 alone generates 3.06% of total revenue
-🔄 0.04% product return rate with Product 22617 being highest
+> Revenue Insights
+1. 90.15% of revenue comes from the United Kingdom
+2. 68% MoM decline from December 2010 to January 2011
+3. 37 countries represent untapped growth opportunities
 
-Customer Insights
-💵 Average revenue per customer: £1,034.32 (high-value customers)
-👥 961 out of 1,054 customers (91%) are UK-based
-🎯 Significant customer concentration risk
+> Product Insights
+1. Top 0.53% of products drive majority of sales
+2. 25.63% of products are slow-movers
+3. Product 22423 alone generates 3.06% of total revenue
+4. 0.04% product return rate with Product 22617 being highest
+
+> Customer Insights
+1. Average revenue per customer: £1,034.32 (high-value customers)
+2. 961 out of 1,054 customers (91%) are UK-based
+3. Significant customer concentration risk
 
 🚀 Business Recommendations
 Immediate Actions:
@@ -78,7 +79,6 @@ Strategic Priorities:
 Geographic Diversification: Reduce 90% UK dependency through international expansion
 Inventory Management: Implement data-driven forecasting to reduce dead stock
 Customer Segmentation: Leverage high AOV (£1,034) with targeted retention programs
-
 
 Database: MySQL 8.0+
 SQL Concepts: Window Functions, CTEs, Subqueries, Joins
