@@ -12,20 +12,20 @@ Geography: 38 countries
 Key Fields: InvoiceNo, StockCode, Description, Quantity, InvoiceDate, UnitPrice, CustomerID, Country
 
 🔍 Analysis Components
-1. Data Cleaning & Preparation
---> Created isolated copy of raw data following best practices
---> Handled mixed date formats (MM/DD/YYYY and DD-MM-YYYY)
---> Converted text-based dates to proper DATETIME format
---> Managed NULL values and data quality issues
+--> Data Cleaning & Preparation : 
+1. Created isolated copy of raw data following best practices
+2. Handled mixed date formats (MM/DD/YYYY and DD-MM-YYYY)
+3. Converted text-based dates to proper DATETIME format
+4. Managed NULL values and data quality issues
 
-3. Revenue Performance Analysis
-✅ Total revenue calculation
-✅ Year-over-Year (YoY) revenue growth
-✅ Month-over-Month (MoM) revenue trends
-✅ Revenue distribution by country/region
-✅ Geographic concentration analysis
+--> Revenue Performance Analysis
+1. Total revenue calculation
+2. Year-over-Year (YoY) revenue growth
+3. Month-over-Month (MoM) revenue trends
+4. Revenue distribution by country/region
+5. Geographic concentration analysis
 
-4. Product Performance Analysis
+   Product Performance Analysis
 ✅ Top-selling products (by quantity and revenue)
 ✅ Underperforming products identification
 ✅ Product performance by country
@@ -33,7 +33,7 @@ Key Fields: InvoiceNo, StockCode, Description, Quantity, InvoiceDate, UnitPrice,
 ✅ Product return rate analysis
 ✅ Revenue contribution percentage by product
 
-5. Customer Behavior Analysis
+7. Customer Behavior Analysis
 ✅ Customer distribution by region
 ✅ Average revenue per customer
 ✅ Purchase frequency analysis
