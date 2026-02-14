@@ -25,19 +25,19 @@ Key Fields: InvoiceNo, StockCode, Description, Quantity, InvoiceDate, UnitPrice,
 4. Revenue distribution by country/region
 5. Geographic concentration analysis
 
-   Product Performance Analysis
-✅ Top-selling products (by quantity and revenue)
-✅ Underperforming products identification
-✅ Product performance by country
-✅ Unsold inventory analysis
-✅ Product return rate analysis
-✅ Revenue contribution percentage by product
+---> Product Performance Analysis
+1. Top-selling products (by quantity and revenue)
+2. Underperforming products identification
+3. Product performance by country
+4. Unsold inventory analysis
+5. Product return rate analysis
+6. Revenue contribution percentage by product
 
-7. Customer Behavior Analysis
-✅ Customer distribution by region
-✅ Average revenue per customer
-✅ Purchase frequency analysis
-✅ Top customers identification
+--> Customer Behavior Analysis
+1. Customer distribution by region
+2. Average revenue per customer
+3. Purchase frequency analysis
+4. Top customers identification
 
 
 🛠️ Technical Skills Demonstrated
