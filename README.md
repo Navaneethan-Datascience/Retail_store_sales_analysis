@@ -51,6 +51,7 @@ Joins: CROSS JOIN for percentage calculations
 Partitioning: PARTITION BY for grouped window operations
 Data Quality: Handling NULL values, negative quantities, and edge cases
 
+
 📈 Key Findings
 
 > Revenue Insights
@@ -71,9 +72,9 @@ Data Quality: Handling NULL values, negative quantities, and edge cases
 
 🚀 Business Recommendations
 Immediate Actions:
-Investigate Revenue Decline: Determine if 68% drop is seasonal or structural
-Optimize Product Portfolio: Discontinue slow-movers, focus on proven performers
-Quality Control: Address high returns for specific products (e.g., 22617)
+1. Investigate Revenue Decline: Determine if 68% drop is seasonal or structural
+2. Optimize Product Portfolio: Discontinue slow-movers, focus on proven performers
+3. Quality Control: Address high returns for specific products (e.g., 22617)
 
 Strategic Priorities:
 1. Geographic Diversification: Reduce 90% UK dependency through international expansionInventory
@@ -94,5 +95,5 @@ Through this project, I demonstrated:
 
 
 📞 Connect With Me
-LinkedIn: https://www.linkedin.com/in/navaneethan18/
-Email: navaneethan1810@gmail.com
+* LinkedIn: https://www.linkedin.com/in/navaneethan18/
+* Email: navaneethan1810@gmail.com
