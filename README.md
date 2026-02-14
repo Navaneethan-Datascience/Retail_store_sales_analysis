@@ -5,11 +5,11 @@ A comprehensive SQL-based analysis of online retail transactions, uncovering rev
 This project analyzes transactional data from an online retail store spanning December 2010 to January 2011, covering 1,054 customers across 38 countries with total revenue of £1.09 million. The analysis reveals critical business insights about geographic concentration, product performance disparities, and revenue trends.
 
 📁 Dataset
-Source: Online Retail Transaction Data
-Time Period: December 2010 - January 2011
-Records: ~500K+ transactions
-Geography: 38 countries
-Key Fields: InvoiceNo, StockCode, Description, Quantity, InvoiceDate, UnitPrice, CustomerID, Country
+> Source: Online Retail Transaction Data
+> Time Period: December 2010 - January 2011
+> Records: ~500K+ transactions
+> Geography: 38 countries
+> Key Fields: InvoiceNo, StockCode, Description, Quantity, InvoiceDate, UnitPrice, CustomerID, Country
 
 🔍 Analysis Components
 --> Data Cleaning & Preparation : 
