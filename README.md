@@ -76,9 +76,9 @@ Optimize Product Portfolio: Discontinue slow-movers, focus on proven performers
 Quality Control: Address high returns for specific products (e.g., 22617)
 
 Strategic Priorities:
-Geographic Diversification: Reduce 90% UK dependency through international expansion
-Inventory Management: Implement data-driven forecasting to reduce dead stock
-Customer Segmentation: Leverage high AOV (£1,034) with targeted retention programs
+1. Geographic Diversification: Reduce 90% UK dependency through international expansionInventory
+2. Management: Implement data-driven forecasting to reduce dead stock
+3. Customer Segmentation: Leverage high AOV (£1,034) with targeted retention programs
 
 Database: MySQL 8.0+
 SQL Concepts: Window Functions, CTEs, Subqueries, Joins
@@ -86,19 +86,12 @@ Analysis: Descriptive Statistics, Trend Analysis, Performance Metrics
 
 💡 Learning Outcomes
 Through this project, I demonstrated:
-✅ Advanced SQL query optimization techniques
-✅ Business acumen in retail analytics
-✅ Data storytelling and insight generation
-✅ Best practices in data cleaning and preparation
-✅ Strategic thinking for business recommendations
+1. Advanced SQL query optimization techniques
+2. Business acumen in retail analytics
+3. Data storytelling and insight generation
+4. Best practices in data cleaning and preparation
+5. Strategic thinking for business recommendations
 
-🎓 Use Cases
-This analysis framework can be applied to:
-E-commerce performance monitoring
-Inventory optimization
-Customer segmentation
-Market expansion strategy
-Product portfolio management
 
 📞 Connect With Me
 LinkedIn: https://www.linkedin.com/in/navaneethan18/
