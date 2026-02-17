@@ -42,14 +42,14 @@
 
 🛠️ Technical Skills Demonstrated
 SQL Techniques Used:
-Window Functions: LAG(), LEAD(), RANK(), DENSE_RANK(), ROW_NUMBER()
-Common Table Expressions (CTEs): Multi-level CTEs for complex analysis
-Aggregate Functions: SUM(), COUNT(), AVG(), MIN(), MAX()
-Date Functions: YEAR(), MONTH(), DATE_FORMAT(), STR_TO_DATE()
-Conditional Logic: CASE WHEN statements for data categorization
-Joins: CROSS JOIN for percentage calculations
-Partitioning: PARTITION BY for grouped window operations
-Data Quality: Handling NULL values, negative quantities, and edge cases
+> Window Functions: LAG(), LEAD(), RANK(), DENSE_RANK(), ROW_NUMBER()
+> Common Table Expressions (CTEs): Multi-level CTEs for complex analysis
+> Aggregate Functions: SUM(), COUNT(), AVG(), MIN(), MAX()
+> Date Functions: YEAR(), MONTH(), DATE_FORMAT(), STR_TO_DATE()
+> Conditional Logic: CASE WHEN statements for data categorization
+> Joins: CROSS JOIN for percentage calculations
+> Partitioning: PARTITION BY for grouped window operations
+> Data Quality: Handling NULL values, negative quantities, and edge cases
 
 
 📈 Key Findings
